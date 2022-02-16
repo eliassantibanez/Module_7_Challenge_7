@@ -24,7 +24,9 @@ The user must use the database file.
 The Jupyter notebook contains the data preparation process, analysis, and explanations for the ETF Analysis. 
 
 
+![Screenshot1](https://github.com/eliassantibanez/Module_7_Challenge_7/blob/main/images/Screen%20Shot%202022-02-16%20at%207.22.30%20AM.png)
 
+![Screenshot2](https://github.com/eliassantibanez/Module_7_Challenge_7/blob/main/images/Screen%20Shot%202022-02-16%20at%207.22.44%20AM.png)
 
 ---
 
